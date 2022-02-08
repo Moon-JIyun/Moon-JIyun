@@ -1,16 +1,13 @@
-### Hi there 👋
+## MOON JIYUN ✋
 
-<!--
-**Moon-JIyun/Moon-JIyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌱 I'm currently studying to become iOS Developer
+-------
 
-Here are some ideas to get you started:
+![Jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moon-JIyun&show_icons=true&theme=radical)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyun000)](http://solved.ac/jiyun000/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 💪 Skills
+-------
+### Languages
+![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
