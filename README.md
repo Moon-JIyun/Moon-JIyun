@@ -3,7 +3,8 @@
 #### 🌱 I'm currently studying to become iOS Developer
 -------
 
-![Jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moon-JIyun&show_icons=true&theme=radical)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyun000)](http://solved.ac/jiyun000/)
+![Jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moon-JIyun&show_icons=true&theme=radical)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyun000)](http://solved.ac/jiyun000/)
 
 
 
