@@ -1,6 +1,6 @@
 ## MOON JIYUN ✋
 
-#### 🌱 I'm currently studying to become iOS Developer
+#### 🌱 I'm currently studying to become an iOS Developer
 -------
 
 ![Jiyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moon-JIyun&show_icons=true&theme=radical)  
